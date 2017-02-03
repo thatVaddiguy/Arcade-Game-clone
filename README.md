@@ -13,4 +13,4 @@ Use the arrow keys to move the character and Avoid hitting the obstacles crossin
 
 ###<strong>Instructions</strong>
 
-Download the file and run the index.html file and you are good to go 
+Download the file and run the index.html file and you are good to go or you can find it on https://thatvaddiguy.github.io/Arcade-Game-clone/.
